@@ -19,6 +19,18 @@
             <h1>Kolik lidí zaplatilo 20 korun,<br> aby viděli, kolik lidí zaplatilo 20 korun?</h1>
             <h2>Zjistěte nyní!</h2>
         </div>
+        <form action="/paid" method="POST" id='checkout-form'>
+            <script
+                    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                    data-key="pk_test_TYooMQauvdEDq54NiTphI7jx"
+                    data-amount="999"
+                    data-name="Stripe.com"
+                    data-description="Widget"
+                    data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+                    data-locale="auto"
+                    data-zip-code="true">
+            </script>
+        </form>
     </div>
 <?php
 echo '<p>Hello World</p>';
