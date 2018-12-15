@@ -8,6 +8,7 @@
     <meta name="description" content="20korun">
 
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:700" rel="stylesheet">
 
 </head>
 
