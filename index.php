@@ -28,13 +28,10 @@
                     data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
                     data-locale="auto"
                     data-zip-code="true"
-                    data-amount="20"
+                    data-amount="2000"
                     data-currency="CZK">
             </script>
         </form>
     </div>
-<?php
-echo '<p>Hello World</p>';
-?>
 </body>
 </html>
