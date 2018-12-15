@@ -23,9 +23,8 @@
             <script
                     src="https://checkout.stripe.com/checkout.js" class="stripe-button"
                     data-key="pk_test_TYooMQauvdEDq54NiTphI7jx"
-                    data-name="Stripe.com"
-                    data-description="Widget"
-                    data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+                    data-name="Kolik lidí zaplatilo 20 korun?"
+                    data-description="Zjistěte nyní!"
                     data-locale="auto"
                     data-zip-code="true"
                     data-amount="2000"
