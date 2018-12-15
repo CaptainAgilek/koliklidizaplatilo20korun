@@ -15,6 +15,7 @@
 <body>
     <div class="content-wrapper">
         <div class="title">
+            <h2>Chcete vědět<br></h2>
             <h1>Kolik lidí zaplatilo 20 korun,<br> aby viděli, kolik lidí zaplatilo 20 korun?</h1>
         </div>
     </div>
