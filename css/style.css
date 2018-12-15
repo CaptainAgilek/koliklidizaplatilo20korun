@@ -11,3 +11,8 @@ h1 {
   font-size: 300%;
   color: #157FDC;
 }
+
+body {
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+}
