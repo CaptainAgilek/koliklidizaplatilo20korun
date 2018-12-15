@@ -7,6 +7,7 @@
     <title>Kolik lidi zaplatilo 20 korun, aby videli, kolik lidi zaplatilo 20 korun?</title>
     <meta name="description" content="20korun">
 
+    <link rel="stylesheet" href="css/style.css">
 
 </head>
 
