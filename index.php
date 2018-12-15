@@ -23,7 +23,7 @@
             <script
                     src="https://checkout.stripe.com/checkout.js" class="stripe-button"
                     data-key="pk_test_TYooMQauvdEDq54NiTphI7jx"
-                    data-name="Kolik lidí zaplatilo 20 korun?"
+                    data-name="Kolik lidí zaplatilo?"
                     data-description="Zjistěte nyní!"
                     data-locale="auto"
                     data-zip-code="true"
