@@ -9,7 +9,12 @@
 
 h1 {
   font-size: 300%;
-  color: #157FDC;
+  color: #338EA5;
+}
+
+h2 {
+  font-size: 200%;
+  color: #6D99A4;
 }
 
 body {
