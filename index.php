@@ -12,6 +12,9 @@
 </head>
 
 <body>
+    <div class="content-wrapper" >
+        <h1>Kolik lidí zaplatilo 20 korun, aby viděli, kolik lidí zaplatilo 20 korun?</h1>
+    </div>
 <?php
 echo '<p>Hello World</p>';
 ?>
